@@ -81,8 +81,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         //mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
         //mMap.setMinZoomPreference(18.0f);
 
-        Marker(28.674074, -106.075794,"hola: " +
-                "djhfuksdjfhnkjlsdafhkluasfhkjdshfkashnfjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj");
+        Marker(28.674074, -106.075794,"hola");
+        Marker(28.675267, -106.076825, "CIT: Centro de Innovación Tecnológica");
+
 
 
 
