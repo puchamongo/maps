@@ -81,8 +81,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         //mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
         //mMap.setMinZoomPreference(18.0f);
 
-        Marker(28.674074, -106.075794,"hola");
+        Marker(28.674674, -106.078726,"Galileo: Estatua de Galileo Galilei");
         Marker(28.675267, -106.076825, "CIT: Centro de Innovación Tecnológica");
+        Marker(28.674674, -106.076320, "Borrego: Mascota del Tec de Monterrey");
+        Marker(28.673446, -106.080067, "Ladrillos: Cada bloque representa una empresa creada aquí");
+        Marker(28.674475, -106.076404, "Monumento A Federico Terrazas: Fundador del Tec");
 
 
 
